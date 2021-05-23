@@ -12,5 +12,7 @@
 
 ## Konfigurasi Email di Gmail
 - akses ke http://www.google.com/accounts/DisplayUnlockCaptcha
+- logout
+- login lagi, konfirmasi
 - verifikasi 2 langkah nonaktif
 - aktifkan akses palikasi pihak ketiga / tidak aman
